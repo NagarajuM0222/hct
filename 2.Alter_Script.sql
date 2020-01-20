@@ -1,0 +1,1 @@
+alter table synapse.campaign_sms modify  camp_name NVARCHAR2(100);
